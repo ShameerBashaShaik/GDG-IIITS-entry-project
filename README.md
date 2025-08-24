@@ -57,6 +57,7 @@ python3 first.py
 - **Decryption**: CyberChef (for AES and RSA) or custom Python scripts.
 - **Text Analysis**: `cat`, `grep`, or any text editor to inspect files like `wordlist.txt`.
 
+- Also use two shells, cause each time the python file is run the hashes are modified.
 ---
 ## Solution
 There is a solution.md file placed in the github repo for some reference.
